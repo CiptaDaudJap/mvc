@@ -1,0 +1,31 @@
+Kenapa menggunakan metode mvc :
+1. organisasi dan struktur kode
+2. Pemisahan Logic dan Tampilan
+3. Perawatan kode
+4. implementasi konsep OOP
+5. digunakan oleh banyak web app Framework
+
+Framework yg menggunakan mvc
+Bahasa        Framework
+PHP           Codeigniter , Laravel , Yi 
+Java          Spring MVC , JSF , Struts 
+Python        django , Cherrypy
+Ruby          Ruby on Rails , Sinatra
+Javascript    Angular JS,React , Backbone.JS
+
+M =Model yaitu mengelola data , logika bisnis
+C =Controller perantara anatara modeldan view
+menagnani premrosesan pd aplikasi
+menangani aksi dari user
+V = View , output tampilan dan laporan 
+Pel 2 , class app di file App.php di panggil dari program index , kita sdh membagi sesuai struktur MVC nya , ini tehnik bootstarping.
+Pel 3 Routing , agar kita bisa mengelola Url yg rapi 
+
+file .htacess utk memblock user yg mau masuk ke folder selain ada file index nya ,file
+ini kita buat di folder app utk proteksi dan public utk  
+
+* download boostarp di getbootstarp.com download compiled CSS adn JS lalu extract di dlmnya ada folder css dan js lalu copy kan ke dua folder nya kefolder public di replace saja kalau belum ada yg di kerjakan di css dan js nya jika sdh jangan isinya saja di replace
+* lalu masuk ke bag introduction cari utk mnyembungkan css dan js nya copy kanutk css link rel nya ke header.php danitu versi online , kitarbh ke versioffline sesuai yg sdh kita download 
+
+utk js copy scripnya ke 
+masukan k
